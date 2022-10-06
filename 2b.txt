@@ -1,0 +1,30 @@
+<div class="container">
+      <h2>Servicios</h2>
+      <div class="row">
+            
+            
+            <div class="col-12 col-md-4">
+                <h3>Diseño Web</h3>
+                <p>Narwhal salvia marfa listicle ugh. Wayfarers unicorn portland, four loko wolf narwhal actually woke migas tilde disrupt cray tousled authentic. </p>
+            </div>
+
+            <div class="col-12 col-md-4">
+                <h3>Desarrollo de Apps</h3>
+                <p>Narwhal salvia marfa listicle ugh. Wayfarers unicorn portland, four loko wolf narwhal actually woke migas tilde disrupt cray tousled authentic. </p>
+            </div>
+            
+            <div class="col-12 col-md-4">
+                <h3>Tiendas Virtuales</h3>
+                <p>Narwhal salvia marfa listicle ugh. Wayfarers unicorn portland, four loko wolf narwhal actually woke migas tilde disrupt cray tousled authentic. </p>
+            </div>
+        </div>
+    </div>
+    
+    <div class="container">
+      <div class="row">
+            <div class="contact-info col-8 offset-2" style="background-color:red;">
+                <h2>Contacto</h2>
+                <p>Contactanos aqui</p>
+            </div>
+        </div>
+    </div>

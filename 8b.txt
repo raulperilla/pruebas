@@ -1,0 +1,55 @@
+    <h2 class="lecture-title">Cards</h2>
+
+    
+    <main class="container">
+        <div class="row">
+            <div class="col-6 col-md-3">
+                  <div class="card ">
+                          <img src="img/card_01.jpg" class="card-img-top img-fluid">
+                          <div class="card-body">
+                              <h2 class="card-title">London eye</h2>
+                              <p clas="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia minus eaque nobis architecto sint assumenda, perferendis, libero eveniet a magni ipsum animi nisi et, distinctio cumque facilis? Quas, sapiente molestias.</p>
+                              
+                              <ul class="list-group list-group-flush">
+                                  <li class="list-group-item">Horario: 08:00 a 20:00</li>
+                                  <li class="list-group-item">Costo: Gratis</li>
+                              </ul>
+                              <a href="#" class="btn btn-primary mt-2">Leer más</a>
+                              
+                          </div>
+                  </div>
+            </div>
+            <div class="col-6 col-md-3">
+                <div class="card ">
+                        <img src="img/card_02.jpg" class="card-img-top img-fluid">
+                        <div class="card-body">
+                            <h2 class="card-title">London eye</h2>
+                            <p clas="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia minus eaque nobis architecto sint assumenda, perferendis, libero eveniet a magni ipsum animi nisi et, distinctio cumque facilis? Quas, sapiente molestias.</p>
+                            
+                            <ul class="list-group list-group-flush">
+                                <li class="list-group-item">Horario: 08:00 a 20:00</li>
+                                <li class="list-group-item">Costo: Gratis</li>
+                            </ul>
+                            <a href="#" class="btn btn-primary mt-2">Leer más</a>
+                            
+                        </div>
+                </div>
+            </div>
+            <div class="col-6 col-md-3">
+                <div class="card ">
+                        <img src="img/card_03.jpg" class="card-img-top img-fluid">
+                        <div class="card-body">
+                            <h2 class="card-title">London eye</h2>
+                            <p clas="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia minus eaque nobis architecto sint assumenda, perferendis, libero eveniet a magni ipsum animi nisi et, distinctio cumque facilis? Quas, sapiente molestias.</p>
+                            
+                            <ul class="list-group list-group-flush">
+                                <li class="list-group-item">Horario: 08:00 a 20:00</li>
+                                <li class="list-group-item">Costo: Gratis</li>
+                            </ul>
+                            <a href="#" class="btn btn-primary mt-2">Leer más</a>
+                            
+                        </div>
+                </div>
+            </div>
+        </div>
+    </main>
